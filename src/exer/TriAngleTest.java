@@ -10,5 +10,6 @@ public class TriAngleTest {
         TriAngle t1 = new TriAngle(5.1,5.2);
         System.out.println("base :" + t1.getBase()
                 + " , height : " + t1.getHeight());
+        System.out.println("hello");
     }
 }
