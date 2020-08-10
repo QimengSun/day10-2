@@ -9,7 +9,7 @@ public class TriAngle {
     private double base;
     private double height;
 
-    //构造器
+    //空构造器
     public TriAngle(){
 
     }
